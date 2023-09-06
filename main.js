@@ -42,3 +42,4 @@ window.addEventListener("scroll", function() {
     var imagen = document.querySelector(".img-mobile-deslizante");
     imagen.style.left = -scrollPosition + "px";
 });
+
